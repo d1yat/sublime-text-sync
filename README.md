@@ -19,3 +19,6 @@ git branch -u origin/main main
 ```
 4. Restart Sublime Text
 5. Selesai
+
+# Screenshot
+![Alt text](screenshot.jpg?raw=true "Sublime Text")
