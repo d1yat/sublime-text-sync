@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"ignore_vcs_packages": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"GitGutter",
+		"Nord",
+		"Package Control",
+		"SFTP",
+		"Terminus",
+		"Theme - Soda"
+	]
+}
