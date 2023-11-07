@@ -21,7 +21,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 3,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Nord/Nord.sublime-color-scheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "JetBrains Mono",
 	"font_options":
@@ -33,8 +33,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Side​Bar​Enhancements",
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
@@ -45,5 +44,5 @@
 	"line_padding_top": 1,
 	"soda_classic_tabs": true,
 	"theme": "Soda Dark 3.sublime-theme",
-	"wide_caret": true
+	"wide_caret": true,
 }
