@@ -11,10 +11,11 @@
    
 4. Ketikkan perintah berikut di Terminal:
 ```
+rm -f Package\ Control.sublime-settings
 git init
 git remote add origin https://github.com/d1yat/sublime-text-sync.git
-git branch -m main
-git pull
+git branch -M main
+git pull origin main
 git branch -u origin/main main
 ```
 4. Restart Sublime Text
