@@ -1,5 +1,5 @@
 # sublime-text-sync
-1. Install Package Control melalui menu `Tools > Install Package Control`
+1. Install Package Control melalui menu `Tools > Install Package Control...`
 2. Jalankan Terminal _`(Mac/Linux: SHELL, Windows: Command Prompt)`_ di folder `Packages/User`
    
    **NOTE:**
@@ -18,6 +18,9 @@ git branch -M main
 git pull origin main
 git branch -u origin/main main
 ```
+Jika menggunakan Sublime Text 4, buat 2 (dua) buah file di `Preferences > Browse Packages`
+- `Default/Side Bar Mount Point.sublime-menu`
+- `Default/Side Bar.sublime-menu`
 4. Restart Sublime Text
 5. Selesai
 
