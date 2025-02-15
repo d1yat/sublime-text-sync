@@ -26,7 +26,8 @@
 	"font_face": "JetBrains Mono",
 	"font_options":
 	[
-		"no_italic"
+		"no_italic",
+		"gdi"
 	],
 	"font_size": 10,
 	"highlight_line": true,
