@@ -28,5 +28,9 @@ Jika menggunakan Sublime Text 4, buat 2 (dua) buah file di folder `Packages`
 5. Restart Sublime Text
 6. Selesai
 
+   **NOTE:**
+   > Pada pengaturan Sublime Text, saya mengatur jenis font ke "JetBrains Mono".
+   > Jika ingin menggunakan jenis font yang sama, Anda bisa mengunduhnya di https://www.jetbrains.com/lp/mono/
+
 # Screenshot
 ![Alt text](screenshot.jpg?raw=true "Sublime Text")
